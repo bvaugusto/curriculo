@@ -1,8 +1,10 @@
 >Bruno Vasconcellos Augusto     
->Brasileiro, 33 anos        
->bvaugusto@gmail.com
+>Brasileiro, 33 anos    
 
-[Linkedin](https://www.linkedin.com/in/bvaugusto/)
+[Linkedin](https://www.linkedin.com/in/bvaugusto)      
+[bvaugusto@gmail.com](bvaugusto@gmail.com)      
+[brunoaugusto.eti.br](http://brunoaugusto.eti.br)   
+[Google Play](https://goo.gl/FgXs9M) 
 
 ## Formação Acadêmica: Graduação
 **Análise e Desenvolvimento de Sistemas - Unatec - Belo Horizonte**
