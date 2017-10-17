@@ -1,7 +1,8 @@
-Bruno Vasconcellos Augusto
-Brasileiro, 33 anos
-Cel.: 55 (31) 98831-8872
-bvaugusto@gmail.com
+>Bruno Vasconcellos Augusto     
+>Brasileiro, 33 anos        
+>bvaugusto@gmail.com
+
+[Linkedin](https://www.linkedin.com/in/bvaugusto/)
 
 ## Formação Acadêmica: Graduação
 **Análise e Desenvolvimento de Sistemas - Unatec - Belo Horizonte**
