@@ -51,18 +51,18 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >Desenvolvimento de sites/modelo para o ramo imobiliário
 >
 >Desenvolvimento, manutenção do sistema de gestão do portal imobiliário
->
+
 >(Framework PHP Laravel, Mysql, HTML5, CSS3, Sass, Gulp, kendo ui)
 
 **Hinova Soluções Digitais** - de março/2014 a agosto/2015
 
     Analista Desenvolvedor
 >Atuação no projeto de Cotação / Orçamento e o Módulo de Ordem de Compra para peças automotivas.
-
->Desenvolvimento front-end e back-end do sistema.
-
->Manutenção, melhoria e desenvolvimento do sistema por meio de chamados gerados por clientes externos.
 >
+>Desenvolvimento front-end e back-end do sistema.
+>
+>Manutenção, melhoria e desenvolvimento do sistema por meio de chamados gerados por clientes externos.
+
 >(PHP, Mysql, HTML, CSS)
 
 **Softbox - Serviços Inteligentes em TI** - de julho/2012 a março/2014
@@ -71,11 +71,11 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >Participação da equipe de desenvolvimento front-end e back-end do e-commerce do grupo máquina de vendas, sites 
 relacionados (Ricardo Eletro, Insinuante, Citylar, Eletro Shopping, Clube do Ricardo, Cipela, Ecolchão, 
 Comercial São Jorge, Kangoolu, Novo site Clube do Ricardo, Malamix, No!No! Hair).
-
+>
 >Participação da equipe do break-fix, atendendo todos os chamados referentes aos sites do grupo Máquina de Vendas e 
 chamados referente ao sistema de gestão interno. Controle de versão SVN atualizando os novos projetos, melhorias e 
 correções de falhas no ambiente de produção.
->
+
 >(PHP, Mysql, HTML, CSS, Ext JS)
 
 **Máquina de Vendas S/A** - de outubro/2010 a junho/2012
@@ -83,7 +83,7 @@ correções de falhas no ambiente de produção.
     Desenvolvedor de Sistemas Web
 >Participação da equipe de desenvolvimento front-end do e-commerce do grupo máquina de vendas, sites relacionados 
 (Ricardo Eletro, Insinuante, Citylar, Eletro Shopping, Clube do Ricardo, Cipela e Ecolchão).
->
+
 >(PHP, Mysql, HTML, CSS, Ext JS)
 
 **Orteng Equipamentos e Sistemas Ltda.** - de junho/2008 a janeiro/2009
