@@ -15,7 +15,7 @@
 * Codeigniter, Laravel
 
 **Principais Habilidades**
-* Ajax, AngularJs, Css, CSS3, HTML, HTML5, Java, JavaScript, jQuery, PHP, SASS
+* Ajax, AngularJs, CSS3, HTML5, Java, JavaScript, jQuery, PHP, SASS
 
 **Banco de Dados**
 * MySQL, SQL Server, SQLite
@@ -55,7 +55,7 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >
 >Desenvolvimento, manutenção do sistema de gestão do portal imobiliário
 
->(Framework PHP Laravel, Mysql, HTML5, CSS3, Sass, Gulp, kendo ui)
+>(Framework PHP Laravel, Mysql, HTML5, CSS3, Sass, Gulp, JavaScript/jQuery, kendo ui)
 
 **Hinova Soluções Digitais** - de março/2014 a agosto/2015
 
@@ -66,7 +66,7 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >
 >Manutenção, melhoria e desenvolvimento do sistema por meio de chamados gerados por clientes externos.
 
->(PHP, Mysql, HTML, CSS)
+>(PHP, Mysql, HTML, CSS, JavaScript/jQuery)
 
 **Softbox - Serviços Inteligentes em TI** - de julho/2012 a março/2014
 
@@ -79,7 +79,7 @@ Comercial São Jorge, Kangoolu, Novo site Clube do Ricardo, Malamix, No!No! Hair
 chamados referente ao sistema de gestão interno. Controle de versão SVN atualizando os novos projetos, melhorias e 
 correções de falhas no ambiente de produção.
 
->(PHP, Mysql, HTML, CSS, Ext JS)
+>(PHP, Mysql, HTML, CSS, JavaScript/jQuery, Ext JS)
 
 **Máquina de Vendas S/A** - de outubro/2010 a junho/2012
     
@@ -87,7 +87,7 @@ correções de falhas no ambiente de produção.
 >Participação da equipe de desenvolvimento front-end do e-commerce do grupo máquina de vendas, sites relacionados 
 (Ricardo Eletro, Insinuante, Citylar, Eletro Shopping, Clube do Ricardo, Cipela e Ecolchão).
 
->(PHP, Mysql, HTML, CSS, Ext JS)
+>(PHP, Mysql, HTML, CSS, JavaScript/jQuery, Ext JS)
 
 **Orteng Equipamentos e Sistemas Ltda.** - de junho/2008 a janeiro/2009
 
