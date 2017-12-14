@@ -54,6 +54,10 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >Desenvolvimento de sites/modelo para o ramo imobiliário
 >
 >Desenvolvimento, manutenção do sistema de gestão do portal imobiliário
+>
+>API RESTful, Migração de Sistemas
+>
+>Ionic/AngularJS
 
 >(Framework PHP Laravel, Mysql, HTML5, CSS3, Sass, Gulp, JavaScript/jQuery, kendo ui)
 
