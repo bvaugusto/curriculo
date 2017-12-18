@@ -55,7 +55,7 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >
 >Desenvolvimento, manutenção do sistema de gestão do portal imobiliário
 >
->API RESTful
+>Integração de sistemas com API RESTful
 >
 >Migração de Sistemas
 >
