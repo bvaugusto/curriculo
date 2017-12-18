@@ -48,7 +48,7 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 
 ## Experiência Profissional
 
-**Group Software** - de agosto/2017 *(até o momento)*
+**Group Software** - de agosto/2016 *(até o momento)*
 
     Desenvolvedor/Programador – Front-end / Back-end
 >Desenvolvimento de sites/modelo para o ramo imobiliário
