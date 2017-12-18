@@ -60,6 +60,8 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >Migração de Sistemas
 >
 >Ionic/AngularJS
+>
+>WordPress
 
 >(Framework PHP Laravel, Mysql, HTML5, CSS3, Sass, Gulp, JavaScript/jQuery, kendo ui)
 
@@ -112,5 +114,5 @@ de rede cabeamento e wireless; servidores de dados Windows.
 setembro/2006.
 
     Estagiário - CRC - Centro de Recursos Computacionais
->Atendimento interno relacionado à manutenção de micro computador, atendimento a usuários da rede acadêmica 
+>Atendimento interno relacionado à manutenção de microcomputador, atendimento a usuários da rede acadêmica 
 e administrativa, infraestrutura de rede cabeamento e wireless; servidores de dados Windows.
