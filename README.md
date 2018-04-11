@@ -1,5 +1,5 @@
 >Bruno Vasconcellos Augusto     
->Brasileiro, 33 anos    
+>Brasileiro, 34 anos    
 
 [bvaugusto@gmail.com](bvaugusto@gmail.com)      
 [brunoaugusto.eti.br](http://brunoaugusto.eti.br)   
@@ -27,10 +27,15 @@
 * Windows 2003 Server - Instalação configuração de domínio, utilização do Active Directory na criação de usuários, 
 grupos e unidades organizacionais, permissão de usuários, compartilhamento e segurança; Servidor Apache.
 
+* Linux - CentOs, Ubuntu
+
 **E-commerce**
 
 **Controle de Versão**
 * Git, SVN, TFS, Mercurial
+
+**AWS**
+* EC2, RDS, Route 53, S3
 
 **Web Services RESTful**
 
@@ -39,12 +44,29 @@ grupos e unidades organizacionais, permissão de usuários, compartilhamento e s
 
 ## Cursos
 
+**AngularJS - Concluído**
+* Obtenha uma compreensão básica do processo de desenvolvimento usando o AngularJS
+* Crie um aplicativo AngularJS a partir do zero
+
 **Desenvolvimento para Android - Concluído**
 * Activity, Interface – Gerenciadores de Layout, Interface –
 Recursos, Componentes e eventos, Intent, Permissões navegação, Notificações, AlarmManager, 
 Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Play.
 
-**Desenvolvimento para Ios - Cursando**
+**Otimizando com Gulp JS - Concluído**
+*  Configuração de ambiente de trabalho automatizado.
+
+**React + Redux - em andamento**
+* React, Redux, Webpack, Redux-Form, MongoDB, Express, Node
+* Configurar uma aplicação com Webpack
+* Criar componentes em React
+* Integrar o Redux em uma aplicação React
+* Desenvolver uma aplicação do zero com React/Redux
+* Desenvolver uma aplicação full-stack em Javascript
+* Aplicar boas práticas de desenvolvimento
+
+**Sass**
+*  Aprimorando a qualidade geral do front-end e maximizando sua qualidade e facilidade de desenvolvimento.
 
 ## Experiência Profissional
 
