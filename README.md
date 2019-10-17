@@ -1,13 +1,14 @@
 >Bruno Vasconcellos Augusto     
->Brasileiro, 34 anos    
+>Brasileiro, 35 anos    
 
 [bvaugusto@gmail.com](bvaugusto@gmail.com)      
-[brunoaugusto.eti.br](http://brunoaugusto.eti.br)   
 [Linkedin](https://www.linkedin.com/in/bvaugusto)      
-[Google Play](https://goo.gl/FgXs9M) 
 
-## Formação Acadêmica: Graduação
-**Análise e Desenvolvimento de Sistemas - Unatec - Belo Horizonte**
+## Formação Acadêmica
+
+**Pós Graduação - Arquitetura de Software Distribuído - IEC Puc Minas - (Em andamento)**
+
+**Graduação - Análise e Desenvolvimento de Sistemas - Una**
 
 ## Competências e especialidades
 
@@ -15,17 +16,13 @@
 * Codeigniter, Laravel
 
 **Principais Habilidades**
-* Ajax, AngularJs, CSS3, HTML5, Java, JavaScript, jQuery, PHP, SASS
+* Ajax, AngularJs, CSS3, HTML5, Java, JavaScript, jQuery, PHP, SASS, Vue.js
 
 **Banco de Dados**
-* MySQL, SQL Server, SQLite
+* MySQL, Oracle, SQLite
 
 **Gráficos/Web**
 * Adobe Macromedia (Fireworks, Photoshop)
-
-**Servidores Dados/Web**
-* Windows 2003 Server - Instalação configuração de domínio, utilização do Active Directory na criação de usuários, 
-grupos e unidades organizacionais, permissão de usuários, compartilhamento e segurança; Servidor Apache.
 
 * Linux - CentOs, Ubuntu
 
@@ -35,12 +32,9 @@ grupos e unidades organizacionais, permissão de usuários, compartilhamento e s
 * Git, SVN, TFS, Mercurial
 
 **AWS**
-* EC2, RDS, Route 53, S3
+* EC2, RDS, Route 53, S3, SNS
 
-**Web Services RESTful**
-
-**Desenvolvimento para Android**
-* Google Play [https://goo.gl/FgXs9M](https://goo.gl/FgXs9M "Projetos") 
+**API's REST**
 
 ## Cursos
 
@@ -56,21 +50,30 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 **Otimizando com Gulp JS - Concluído**
 *  Configuração de ambiente de trabalho automatizado.
 
-**React + Redux - em andamento**
-* React, Redux, Webpack, Redux-Form, MongoDB, Express, Node
-* Configurar uma aplicação com Webpack
-* Criar componentes em React
-* Integrar o Redux em uma aplicação React
-* Desenvolver uma aplicação do zero com React/Redux
-* Desenvolver uma aplicação full-stack em Javascript
-* Aplicar boas práticas de desenvolvimento
-
 **Sass**
 *  Aprimorando a qualidade geral do front-end e maximizando sua qualidade e facilidade de desenvolvimento.
 
 ## Experiência Profissional
 
-**Group Software** - de agosto/2016 *(até o momento)*
+**123Milhas** - de julho/2019 *(até o momento)*
+
+    Programador
+>Evolução e manutenção do sistema Milhas Fácil
+>
+>Evolução e manutenção do sistema 123Milhas
+>
+>(AngularJs, Mysql, PHP Framework Laravel, Git)
+
+**Anima Educação** - de abril/2018 a junho/2019
+
+    Analista de Sistemas
+>Evolução e manutenção do sistema acadêmico SOL - Sistema On-line Aluno / Professor
+>
+>Evolução e manutenção do sistema de acesso a Funcionário, Gerenciamento de Segurança
+>
+>(PHP, Oracle PL/SQL, JavaScript/jQuery, Git)
+
+**Group Software** - de agosto/2016 a março/2018
 
     Desenvolvedor/Programador – Front-end / Back-end
 >Desenvolvimento de sites/modelo para o ramo imobiliário
