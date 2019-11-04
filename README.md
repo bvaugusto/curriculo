@@ -75,7 +75,7 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 
 **Group Software** - de agosto/2016 a março/2018
 
-    Desenvolvedor/Programador – Front-end / Back-end
+    Desenvolvedor – Front-end / Back-end
 >Desenvolvimento de sites/modelo para o ramo imobiliário
 >
 >Desenvolvimento, manutenção do sistema de gestão do portal imobiliário
