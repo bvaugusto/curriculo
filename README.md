@@ -58,9 +58,13 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 **123Milhas** - de julho/2019 *(até o momento)*
 
     Desenvolvedor
->Evolução e manutenção do sistema Milhas Fácil
+>Evolução e manutenção do sistema Busca/Milhas Fácil
 >
 >Evolução e manutenção do sistema 123Milhas
+>
+>Manutenção em aplicações que realizam crawler
+>
+>Melhoria dos logs e monitoramento dos dados através do Kibana/Elasticsearch
 >
 >(AngularJs, Mysql, PHP Framework Laravel, Git)
 
