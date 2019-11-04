@@ -57,7 +57,7 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 
 **123Milhas** - de julho/2019 *(até o momento)*
 
-    Programador
+    Desenvolvedor
 >Evolução e manutenção do sistema Milhas Fácil
 >
 >Evolução e manutenção do sistema 123Milhas
