@@ -2,7 +2,7 @@
 >Brasileiro, 35 anos    
 
 [bvaugusto@gmail.com](bvaugusto@gmail.com)      
-[Linkedin](https://www.linkedin.com/in/bvaugusto)      
+[Linkedin](https://www.linkedin.com/in/bvaugusto)            
 
 ## Formação Acadêmica
 
@@ -12,46 +12,80 @@
 
 ## Competências e especialidades
 
-**Framework PHP**
-* Codeigniter, Laravel
+**Back-end**
+* PHP (Codeigniter, Laravel)
 
-**Principais Habilidades**
-* Ajax, AngularJs, CSS3, HTML5, Java, JavaScript, jQuery, PHP, SASS, Vue.js
+**Front-end**
+* Ajax, CSS3, HTML5, JavaScript, jQuery, SASS
 
 **Banco de Dados**
 * MySQL, Oracle, SQLite
 
-**Gráficos/Web**
-* Adobe Macromedia (Fireworks, Photoshop)
-
-* Linux - CentOs, Ubuntu
-
-**E-commerce**
-
 **Controle de Versão**
-* Git, SVN, TFS, Mercurial
+* Git, SVN, TFS
 
 **AWS**
-* EC2, RDS, Route 53, S3, SNS
+* EC2, RDS, Route 53, S3, SES, SNS
 
 **API's REST**
 
 ## Cursos
 
-**AngularJS - Concluído**
-* Obtenha uma compreensão básica do processo de desenvolvimento usando o AngularJS
-* Crie um aplicativo AngularJS a partir do zero
+**Aprenda o básico do AngularJS** - [Certificado de Conclusão](https://www.udemy.com/certificate/UC-CBPC3ZTW/)
+* Desenvolva seu próprio jogo da forca usando o AngularJS
+* Obtenha um entendimento básico do processo de desenvolvimento usando o AngularJS
+* Crie um aplicativo AngularJS funcional a partir do zero
+* Entenda como a estrutura MV * é usada no AngularJS
+
+**Crie aplicativos para Android/iOS com HTML, CSS e JavaScript** - [Certificado de Conclusão](https://www.udemy.com/certificate/UC-KBN0Y34Z/)
+* criar aplicativos nativos para as principais plataformas móveis atuais, como Android, iOS e Windows Phone, utilizando HTML, CSS e AngularJS
+* desenvolver aplicativos que armazenem dados de maneira persistente
+* sincronizar dados com servidores nas nuvens utilizando Web Services
+* utilizar os principais plugins do cordova, tais como Câmera e Geolocalização (GPS)
+* integrar com o BaaS (Backend as a Service) Firebase (Autenticação e Realtime database)
 
 **Desenvolvimento para Android - Concluído**
 * Activity, Interface – Gerenciadores de Layout, Interface –
 Recursos, Componentes e eventos, Intent, Permissões navegação, Notificações, AlarmManager, 
 Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Play.
 
-**Otimizando com Gulp JS - Concluído**
-*  Configuração de ambiente de trabalho automatizado.
+**Entendendo e documentando REST / RESTful APIs** - [Certificado de Conclusão](https://www.udemy.com/certificate/UC-VVE4ODGX/)
+* Entender os conceitos sobre RESTful
+* Entender o modelo de maturidade RESTful
+* Conhecer e trabalhar com o cURL
+* Entender sobre Media Types
+* Saber como versionar uma API RESTful
+* Conhecer as técnicas de Cache para páginas Web
+* Conhecer as técnicas de Autenticação REST com OAuth e JWT
+* Documentar uma API com o Swagger
+
+**Node.js** - [Certificado de Conclusão](https://cursos.alura.com.br/user/bvaugusto/fullCertificate/eb3486edab62f781179cd74d838795ee)
+* Node.js Parte 1: Inovando com JavaScript no backend
+* Node.js Parte 2: MVC, autenticação e autorização
+
+**Python para Iniciantes**
+* Utilização das funções básicas/principais da linguagem Python.
+* Desenvolvimento de programas em Python.
+
+**Otimizando com Gulp JS** - [Certificado de Conclusão](https://www.udemy.com/certificate/UC-FJW6QOUQ/)
+* Configurar um ambiente de desenvolvimento
+* Otimizar imagens com plugins
+* Minificar Javascript e css
+* Subir um projeto para o Heroku
 
 **Sass**
-*  Aprimorando a qualidade geral do front-end e maximizando sua qualidade e facilidade de desenvolvimento.
+* Entender como placeholder selectors facilitam a codificação
+* Usar placeholder selectors de Sass da maneira certa
+* Tirar vantagem dos placeholder selectors
+* Desenvolver uma biblioteca de utilitários CSS com placeholders
+
+**VueJs 2** - [Certificado de Conclusão](https://www.udemy.com/certificate/UC-GQ49BGM8/)
+* Criar aplicações incríveis com VueJS
+* Incluir o Vue Material Design
+* Vuex
+* VueRouter
+* Vuetify
+* Bulma
 
 ## Experiência Profissional
 
@@ -65,8 +99,8 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >Manutenção em aplicações que realizam crawler
 >
 >Melhoria dos logs e monitoramento dos dados através do Kibana/Elasticsearch
->
->(AngularJs, Mysql, PHP Framework Laravel, Git)
+
+>(AWS Lambda, SNS, PHP, Mysql, Git)
 
 **Anima Educação** - de abril/2018 a junho/2019
 
@@ -74,7 +108,7 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >Evolução e manutenção do sistema acadêmico SOL - Sistema On-line Aluno / Professor
 >
 >Evolução e manutenção do sistema de acesso a Funcionário, Gerenciamento de Segurança
->
+
 >(PHP, Oracle PL/SQL, JavaScript/jQuery, Git)
 
 **Group Software** - de agosto/2016 a março/2018
