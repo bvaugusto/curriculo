@@ -1,5 +1,5 @@
 >Bruno Vasconcellos Augusto     
->Brasileiro, 35 anos    
+>Brasileiro, 36 anos    
 
 [bvaugusto@gmail.com](bvaugusto@gmail.com)      
 [Linkedin](https://www.linkedin.com/in/bvaugusto)            
@@ -13,23 +13,23 @@
 ## Competências e especialidades
 
 **Back-end**
-* PHP (Codeigniter, Laravel)
+* Node.Js + TypeScript, PHP (Codeigniter, Laravel)
 
 **Front-end**
-* Ajax, CSS3, HTML5, JavaScript, jQuery, SASS
+* Ajax, CSS3, HTML5, JavaScript, jQuery, React + TypeScript, SASS, Vue.js
 
 **Banco de Dados**
-* MySQL, Oracle, SQLite
+* MySQL, Oracle, SQLite, Firestore, MongoDB
 
 **Controle de Versão**
 * Git, SVN, TFS
 
 **AWS**
-* EC2, RDS, Route 53, S3, SES, SNS
+* EC2, RDS, Route 53, S3, SES, SNS, Lambda, Serverless
 
 **API's REST**
 
-## Cursos
+## Licenças e certificados
 
 **Aprenda o básico do AngularJS** - [Certificado de Conclusão](https://www.udemy.com/certificate/UC-CBPC3ZTW/)
 * Desenvolva seu próprio jogo da forca usando o AngularJS
@@ -44,10 +44,18 @@
 * utilizar os principais plugins do cordova, tais como Câmera e Geolocalização (GPS)
 * integrar com o BaaS (Backend as a Service) Firebase (Autenticação e Realtime database)
 
+**Dart** - [Certificado de Conclusão](https://www.schoolofnet.com/validar-certificado/?certificate=a7b3f30d-a204-4b72-83ea-c44d0097ed62)
+
+**Dart orientado a objetos** - [Certificado de Conclusão](https://www.schoolofnet.com/validar-certificado/?certificate=1e48adcd-4a8c-4672-a459-5f58da602263)
+
 **Desenvolvimento para Android - Concluído**
 * Activity, Interface – Gerenciadores de Layout, Interface –
 Recursos, Componentes e eventos, Intent, Permissões navegação, Notificações, AlarmManager, 
 Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Play.
+
+**Flutter** - [Certificado de Conclusão](https://www.schoolofnet.com/validar-certificado/?certificate=c22bd3a5-65c7-4a53-9715-b529551b009a)
+
+**JAVASCRIPT AVANÇADO I: ES6, ORIENTAÇÃO A OBJETOS E PADRÕES DE PROJETOS** - [Certificado de Conclusão](https://cursos.alura.com.br/user/bvaugusto/course/javascript-es6-orientacao-a-objetos-parte-1/certificate)
 
 **Entendendo e documentando REST / RESTful APIs** - [Certificado de Conclusão](https://www.udemy.com/certificate/UC-VVE4ODGX/)
 * Entender os conceitos sobre RESTful
@@ -63,15 +71,17 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 * Node.js Parte 1: Inovando com JavaScript no backend
 * Node.js Parte 2: MVC, autenticação e autorização
 
-**Python para Iniciantes**
-* Utilização das funções básicas/principais da linguagem Python.
-* Desenvolvimento de programas em Python.
+**Node.js com Typescript** - [Certificado de Conclusão](https://www.schoolofnet.com/validar-certificado/?certificate=3459c121-08c5-47ef-95f6-f67835253b5f)
 
 **Otimizando com Gulp JS** - [Certificado de Conclusão](https://www.udemy.com/certificate/UC-FJW6QOUQ/)
 * Configurar um ambiente de desenvolvimento
 * Otimizar imagens com plugins
 * Minificar Javascript e css
 * Subir um projeto para o Heroku
+
+**Python para Iniciantes**
+* Utilização das funções básicas/principais da linguagem Python.
+* Desenvolvimento de programas em Python.
 
 **Sass**
 * Entender como placeholder selectors facilitam a codificação
@@ -89,7 +99,41 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 
 ## Experiência Profissional
 
-**123Milhas** - de julho/2019 *(até o momento)*
+**RARO RECRUTAMENTO EM TI LTDA | Raro Labs** - de março/2020 *(até o momento)*
+    
+    Desenvolvedor Web
+>Alocação em cliente(s):
+>
+> * Led Startup Studio: Integraçaõ 4seg x Pipefy
+>
+>Alocação interna
+>
+> * BBCE - Balcão Brasileiro de Comercialização de Energia
+>
+> * Squads:
+>
+>   * Novos negócios: Participação no desenvolvimento do front-end e back-end da aplicação.
+>
+>   * Pós Trade: Participação no desenvolvimento do back-end da aplicação.
+
+>(Microserviços utilizando Firestore, Mongodb, Node.js, Postgres, TypeOrm, TypeScript, TDD Jest, Front-end React)
+
+**LED | Startup Studio** - de dezembro/2019 a março/2020
+
+    Analista de Desenvolvimento de Sistemas
+>Participação no desenvolvimento de API's nos projetos Parcela/Cartório Express
+>
+>Participação em atividades DevOps
+>
+>Participação no desenvolvimento de projetos front-end utilizando React
+>
+>Integração do sistema 4seg ao serviço de gerenciamento de processos Pipefy
+>
+>Utilização do TDD nas funcionalidades das API's
+
+>(CI - Bitbucket Pipelines, Firebase - Cloud Firestore, Git, Jest, Lambda, Serverless, Node.js, PostgreSQL, React, SES, TDD - Jest, TypeScript, TypeORM, Pipefy)
+
+**123Milhas** - de julho/2019 a dezembro/2019
 
     Desenvolvedor
 >Evolução e manutenção do sistema Busca/Milhas Fácil
@@ -99,12 +143,16 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 >Manutenção em aplicações que realizam crawler
 >
 >Melhoria dos logs e monitoramento dos dados através do Kibana/Elasticsearch
+>
+>Implementação de funções Lambda em Node.js
 
->(AWS Lambda, SNS, PHP, Mysql, Git)
+>(AWS Lambda, Git, Mysql, Node.js, PHP, SNS)
 
 **Anima Educação** - de abril/2018 a junho/2019
 
     Analista de Sistemas
+>Squad - Aluno
+>
 >Evolução e manutenção do sistema acadêmico SOL - Sistema On-line Aluno / Professor
 >
 >Evolução e manutenção do sistema de acesso a Funcionário, Gerenciamento de Segurança
