@@ -99,7 +99,7 @@ Persistência de dados – (SharedPreferences, SQlite), Web Services, Google Pla
 
 ## Experiência Profissional
 
-**RARO RECRUTAMENTO EM TI LTDA | Raro Labs** - de março/2020 *(até o momento)*
+**Raro Recrutamento em TI Ltda | Raro Labs** - de março/2020 *(até o momento)*
     
     Desenvolvedor Web
 >Alocação em cliente(s):
