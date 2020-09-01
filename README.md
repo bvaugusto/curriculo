@@ -6,7 +6,7 @@
 
 ## Formação Acadêmica
 
-**Pós Graduação - Arquitetura de Software Distribuído - IEC Puc Minas - (Em andamento)**
+**Pós Graduação - Arquitetura de Software Distribuído - IEC Puc Minas
 
 **Graduação - Análise e Desenvolvimento de Sistemas - Una**
 
@@ -19,7 +19,7 @@
 * Ajax, CSS3, HTML5, JavaScript, jQuery, React + TypeScript, SASS, Vue.js
 
 **Banco de Dados**
-* MySQL, Oracle, SQLite, Firestore, MongoDB
+*  Firestore, Mongodb, MySQL, Oracle, PostgreSQL
 
 **Controle de Versão**
 * Git, SVN, TFS
