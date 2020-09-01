@@ -6,7 +6,7 @@
 
 ## Formação Acadêmica
 
-**Pós Graduação - Arquitetura de Software Distribuído - IEC Puc Minas
+**Pós Graduação - Arquitetura de Software Distribuído - IEC Puc Minas**
 
 **Graduação - Análise e Desenvolvimento de Sistemas - Una**
 
